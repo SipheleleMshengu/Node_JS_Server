@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SipheleleMshengu/Node_JS_Server/issues"
   },
-  "homepage": "https://github.com/SipheleleMshengu/Node_JS_Server#readme"
+  "homepage": "https://github.com/SipheleleMshengu/Node_JS_Server#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
