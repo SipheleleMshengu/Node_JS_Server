@@ -24,4 +24,4 @@ Node.js - Backend runtime environment.
 Express.js - Web framework for handling routes and middleware.
 Database - Integration with MongoDB
 JSON Web Tokens (JWT) - Authentication and authorization.
-dotenv - Environment variable management
+dotenv - Environment 
