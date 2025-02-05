@@ -15,7 +15,7 @@ Error Handling: Comprehensive error handling for better debugging and user feedb
 
 Middleware: Utilizes middleware for logging, authentication, and request validation.
 
-Database Integration: Supports integration with MongoDB.
+Database Integration: Supports integration with MongoDB and Mongoose.
 
 
 Tech Stack
