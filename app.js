@@ -5,5 +5,5 @@ app.get("/", (req, res) => {
   res.send("Hello From The Node Server");
 });
 app.get("/cars", (req, res) => {
-  res.send("This Is For For Cars");
+  res.send("This Is The Route For Cars");
 });
