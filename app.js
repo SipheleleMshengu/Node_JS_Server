@@ -9,3 +9,9 @@ app.get("/cars", (req, res) => {
 });
 
 // implement more routes 
+
+//POST
+
+//PATCH
+
+//DELETE
