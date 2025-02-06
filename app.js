@@ -6,6 +6,7 @@ const app = express();
 app.get("/", (req, res) => {
   res.send("Hello From The Node Server");
 });
+// Cars route should return car information 
 app.get("/cars", (req, res) => {
   res.send("This Is The Route For Cars");
 });
