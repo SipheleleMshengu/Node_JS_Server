@@ -1,5 +1,6 @@
 // Import the express package 
 const express = require("express");
+// Initialize express for further use
 const app = express();
 
 app.get("/", (req, res) => {
