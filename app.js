@@ -2,7 +2,7 @@
 const express = require("express");
 // Initialize express for further use
 const app = express();
-
+// Main route 
 app.get("/", (req, res) => {
   res.send("Hello From The Node Server");
 });
